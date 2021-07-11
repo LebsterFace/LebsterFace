@@ -3,7 +3,9 @@
 <h3>:computer: Programs I Use</h3>
 <ul>
 	<li><img src="assets/vscode.png" width=16> My favourite editor is VSCode</li>
+	<li><img src="assets/chrome.png" width=16> I like to browse using Google Chrome</li>
 	<li><img src="assets/windows.png" width=16> I *love* Windows 7!</li>
+	<li><img src="assets/pdn.png" width=16> <a href="https://getpaint.net">Paint.net</a> for image manipulation</li>
 </ul>
 <h3>:mailbox: Contact Me</h3>
 <ul>
