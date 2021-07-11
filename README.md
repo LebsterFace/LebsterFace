@@ -14,6 +14,3 @@
 	<li><img src="assets/youtube.png" width=16> <a href="https://lebster.xyz"><b>YouTube</b></a></li>
 	<li><img src="assets/github.png" background="red" width=16> <a href="https://lebster.xyz"><b>YouTube</b></a></li>
 </ul>
-<hr />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LebsterFace&hide_border=1&bg_color=22272E&text_color=FFF&custom_title=GitHub Statistics&count_private=1&show_icons=1&card_width=500" width="80%" >
