@@ -4,7 +4,7 @@
 <ul>
 	<li><img src="assets/vscode.png" width=16> My favourite editor is VSCode</li>
 	<li><img src="assets/chrome.png" width=16> I like to browse using Google Chrome</li>
-	<li><img src="assets/pdn.png" width=16> <a href="https://getpaint.net">Paint.net</a> for image manipulation</li>
+	<li><img src="assets/pdn.png" width=16> <a href="https://getpaint.net">Paint.NET</a> for image manipulation</li>
 	<li><img src="assets/windows.png" width=16> I <i>love</i> Windows 7!</li>
 </ul>
 <h3>:mailbox: Contact Me</h3>
