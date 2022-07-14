@@ -11,5 +11,4 @@
 <table>
     <td><img src="assets/discord.png" width=16> <a href="https://discord.com/users/387692962043265034"><b>Lebster#0617</b></a></td>
     <td><img src="assets/lebster.png" width=16> <a href="https://lebster.xyz"><b>My Website</b></a></td>
-    <td><img src="assets/youtube.png" width=16> <a href="https://www.youtube.com/channel/UCuTYedzx73-ym6FXWSAd8Hg"><b>YouTube</b></a></td>
 </table>
