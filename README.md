@@ -1,5 +1,5 @@
 <h2>Hey! 🦞</h2>
-<img align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LebsterFace&layout=compact&border_radius=10&hide_border=1&bg_color=22272E&text_color=FFF&count_private=true">
+<img align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LebsterFace&layout=compact&border_radius=0&hide_border=0&bg_color=22272E&text_color=FFF&count_private=true">
 <h3>💻 Programs I Use</h3>
 <ul>
 	<li><img src="assets/vscode.svg" width=16> VSCode</li>
