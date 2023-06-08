@@ -8,17 +8,8 @@
 	<li><img src="assets/chrome.png" width=16> Google Chrome</li>
 	<li><img src="assets/pdn.png" width=16> <a href="https://getpaint.net">Paint.NET</a> for image manipulation</li>
 </ul>
-<!--
-<h3>⌨️ Fonts</h3>
-<ul>
-	<li><font face="JetBrains Mono">JetBrains Mono</font></li>
-	<li><font face="Inconsolata">Inconsolata</font></li>
-	<li><font face="Fira Code">Fira Code</font></li>
-	<li><font face="Iosevka Slab">Iosevka Slab</font></li>
-</ul>
--->
 <h3>📫 Contact Me</h3>
 <table>
-	<td><img src="assets/discord.png" width=16> <a href="https://discord.com/users/387692962043265034"><b>Lebster#0617</b></a></td>
+	<td><img src="assets/discord.png" width=16> <a href="https://discord.com/users/387692962043265034"><b>lebster</b></a></td>
 	<td><img src="assets/lebster.png" width=16> <a href="https://lebster.xyz"><b>My Website</b></a></td>
 </table>
